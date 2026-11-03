@@ -1,3 +1,6 @@
+
+/* mobile: no sideways scroll */
+html{overflow-x:hidden}
 /* ===== Priya Maurya Portfolio · v3 ===== */
 :root{--bg:#0b0d1a;--bg2:#11142a;--card:rgba(255,255,255,.045);--card2:rgba(255,255,255,.07);--line:rgba(255,255,255,.10);--text:#eef0ff;--muted:#a5abcf;--p1:#7c5cff;--p2:#00d4ff;--p3:#ff5ca8;--ok:#22c55e;--shadow:0 20px 50px rgba(0,0,0,.35);--r:22px}
 :root[data-theme="light"]{--bg:#f6f7fc;--bg2:#eceefb;--card:rgba(255,255,255,.75);--card2:#ffffff;--line:rgba(20,24,60,.10);--text:#14183a;--muted:#5a6085;--shadow:0 20px 50px rgba(40,50,120,.12)}
